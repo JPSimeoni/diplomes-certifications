@@ -4,7 +4,7 @@ Bienvenue sur cet espace. Vous trouverez ci-dessous les accès directs à mes di
 
 ## 🏛️ Diplômes Académiques
 * [Master 2 Administration des entreprises IAE de Corse (PDF)](2015_Master2_Administration_des_entreprises.pdf)
-* [Licence d'Économie (JPEG)](./Licence_Economie.jpg)
+* [Master 2 Droit public Université de Corse (PDF)](2012_Master2_Droit_Public.pdf)
 
 ## 📜 Certifications et titres Professionnels
 * [2025 Titre professionnel technicien supérieur systèmes et réseaux (PDF)](2025_TitrePro_TSSR.pdf)
