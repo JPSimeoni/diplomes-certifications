@@ -3,7 +3,7 @@
 Bienvenue sur cet espace. Vous trouverez ci-dessous les accès directs à mes diplômes, certifications, titres et formations professionnels. Ainsi que des cours suivis en ligne, des MOOC, dans les domaines de l'informatique, systèmes, réseaux, cyber sécurité, dev, data, comptabilité.
 
 ## 🏛️ Diplômes Académiques
-* [Master en Management et Stratégie (PDF)](2025_TitrePro_TSSR.pdf)
+* [Master 2 Administration des entreprises IAE de Corse (PDF)](2015_Master2_Administration_des_entreprises.pdf)
 * [Licence d'Économie (JPEG)](./Licence_Economie.jpg)
 
 ## 📜 Certifications et titres Professionnels
