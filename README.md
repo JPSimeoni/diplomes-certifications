@@ -14,7 +14,7 @@ Bienvenue sur cet espace. Vous trouverez ci-dessous les accès directs à mes di
 * [2015 Test of English for International Communication (PDF)](2015_Toeic_895.pdf)
 
 ## ⚒️ Formations professionnelles
-* [2025 Exchange 2019, mise en oeuvre et administration(PDF)](2025_Exchange_2019_ECP.pdf)
+* [2025 Exchange 2019, mise en oeuvre et administration(PDF)] (2025_Exchange_2019_ECP.pdf)
 
 
 ## 🌐 Mooc et cours en ligne
