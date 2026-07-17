@@ -3,7 +3,7 @@
 Bienvenue sur cet espace. Vous trouverez ci-dessous les accès directs à mes différents documents justificatifs.
 
 ## 🏛️ Diplômes Académiques
-* [Master en Management et Stratégie (PDF)](./Master_Management.pdf)
+* [Master en Management et Stratégie (PDF)](2025_TitrePro_TSSR.pdf)
 * [Licence d'Économie (JPEG)](./Licence_Economie.jpg)
 
 ## 📜 Certifications et titres Professionnels
