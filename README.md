@@ -7,5 +7,5 @@ Bienvenue sur cet espace. Vous trouverez ci-dessous les accès directs à mes di
 * [Licence d'Économie (JPEG)](./Licence_Economie.jpg)
 
 ## 📜 Certifications et titres Professionnels
-* [Certification Google Analytics (PDF)](./Certif_Google.pdf)
+* [2025 Titre professionnel technicien supérieur systèmes et réseaux (PDF)](2025_TitrePro_TSSR.pdf)
 * [Certification Méthode Agile Scrum (PDF)](./Certif_Scrum.pdf)
