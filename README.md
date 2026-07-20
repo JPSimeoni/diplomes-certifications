@@ -37,3 +37,4 @@ Bienvenue sur cet espace. Vous trouverez ci-dessous les accès directs à mes di
 * [2020 OpenClassrooms Gérer un projet en cascade (PDF)](2020_OC_7608076120_Gerer_un_projet_en_cascade.pdf)
 * [2020 OpenClassrooms Maitriser les fondamentaux d'Excel (PDF)](2020_OC_7503254389_maitriser_les_fondamentaux_excel.pdf)
 * [2020 OpenClassrooms Réaliser une comptabilité de fin d'exercice (PDF)](2020_OC_2951267466_compta_de_fin_d_exercice.pdf)
+* [2020 OpenClassrooms Réaliser les opérations courantes de comptabilité (PDF)](2020_OC_8794424637_op_courantes_compta.pdf)
