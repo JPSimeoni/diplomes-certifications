@@ -6,7 +6,8 @@ Bienvenue sur cet espace. Vous trouverez ci-dessous les accès directs à mes di
 * [Diplôme de Technicien administration et configuration systèmes et réseaux STUDI et DIGITAL CAMPUS](2025_STUDI_DC_Technicien_administration_configuration_systemes_et_reseaux.pdf)
 * [Master 2 Administration des entreprises IAE de Corse (PDF)](2015_Master2_Administration_des_entreprises.pdf)
 * [Master 2 Droit public Université de Corse (PDF)](2012_Master2_Droit_Public.pdf)
-* [Licence 3 Administration publique (PDF)](2010_Licence3_administration_publique.pdf)
+* [Licence 3 Administration publique Université de Corse (PDF)](2010_Licence3_administration_publique.pdf)
+* [DUT Institut Universitaire de Technologie de Corse spécialité techniques de commercialisation (PDF)](2007_diplome_universitaire_de_technologie.pdf)
 
 
 ## 📜 Certifications et titres Professionnels
