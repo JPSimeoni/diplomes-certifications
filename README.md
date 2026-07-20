@@ -23,4 +23,5 @@ Bienvenue sur cet espace. Vous trouverez ci-dessous les accès directs à mes di
 
 ## 🌐 Mooc et cours en ligne
 * [2025 ANSSI SecNumacademie (PDF)](Mooc_anssi_secnumacad.pdf)
+* [2024 CISCO Operating systems basics (PDF)](2024_CISCO_Operating_Systems_Basics_Badge20240817-7-qlxfuh.pdf)
 
