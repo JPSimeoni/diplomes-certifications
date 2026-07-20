@@ -32,3 +32,4 @@ Bienvenue sur cet espace. Vous trouverez ci-dessous les accès directs à mes di
 * [2020 Sololearn SQL (PDF)](2020_sqlsololearn20330367-1060.png)
 * [2020 OpenClassrooms Démarrer un projet avec python (PDF)](2020_OC_3492365356_demarrer_un_projet_avec_python.pdf)
 * [2020 OpenClassrooms Modéliser et implémenter une base de données relationnelle avec UML (PDF)](2020_OC_2885470520_uml.pdf)
+* [2020 OpenClassrooms Réaliser un dashboard de données (PDF)](2020_OC_ENSAE-ENSAI_888369256_dashboard_de_données.pdf)
