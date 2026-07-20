@@ -30,3 +30,4 @@ Bienvenue sur cet espace. Vous trouverez ci-dessous les accès directs à mes di
 * [2023 OpenClassrooms Gérer des incidents avec le référentiel ITIL sur GLPI (PDF)](2023_OC_1447165955_Gérez_vos_incidents_référentiel_ITIL_sur_GLPI.pdf)
 * [2021 Sololearn PYTHON 3 (PDF)](2021_pysololearn20330367-1073.pdf)
 * [2020 Sololearn SQL (PDF)](2020_sqlsololearn20330367-1060.png)
+* [2020 OpenClassrooms Démarrer un projet avec python (PDF)](2020_OC_3492365356_demarrer_un_projet_avec_python.pdf)
