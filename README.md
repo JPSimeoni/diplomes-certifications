@@ -34,3 +34,4 @@ Bienvenue sur cet espace. Vous trouverez ci-dessous les accès directs à mes di
 * [2020 OpenClassrooms Modéliser et implémenter une base de données relationnelle avec UML (PDF)](2020_OC_2885470520_uml.pdf)
 * [2020 ENSAE-ENSAI OpenClassrooms Réaliser un dashboard de données (PDF)](2020_OC_ENSAE-ENSAI_888369256_dashboard_de_données.pdf)
 * [2020 ENSAE-ENSAI OpenClassrooms Décrire et nettoyer un jeu de données (PDF)](2020_OC_ENSAE-ENSAI_7695609128_Decrire_et_nettoyer_un_jeu_de_donnés.pdf)
+* [2020 OpenClassrooms Gérer un projet en cascade (PDF)](2020_OC_7608076120_Gerer_un_projet_en_cascade.pdf)
