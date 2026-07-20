@@ -29,3 +29,4 @@ Bienvenue sur cet espace. Vous trouverez ci-dessous les accès directs à mes di
 * [2024 OpenClassrooms Gérer un parc informatique avec GLPI (PDF)](2024_OC_1649388503_Gérez_votre_parc_informatique_avec_GLPI.pdf)
 * [2023 OpenClassrooms Gérer des incidents avec le référentiel ITIL sur GLPI (PDF)](2023_OC_1447165955_Gérez_vos_incidents_référentiel_ITIL_sur_GLPI.pdf)
 * [2021 Sololearn PYTHON 3 (PDF)](2021_pysololearn20330367-1073.pdf)
+* [2020 Sololearn SQL (PDF)](2020_sqlsololearn20330367-1060.png)
