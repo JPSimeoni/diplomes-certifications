@@ -19,6 +19,7 @@ Bienvenue sur cet espace. Vous trouverez ci-dessous les accès directs à mes di
 ## ⚒️ Formations professionnelles
 * [2025 Exchange 2019, mise en oeuvre et administration - ORSYS (PDF)](2025_Exchange_2019_ECP.pdf)
 * [2024 Windows 11, support utilisateur - ORSYS (PDF)](2024_ORSYS_Win11_support_utilisateur.pdf)
+* [2012 Permis d'exploitation - UMIH Formation (PDF)](2012_UMIH_permisdexploitation.pdf)
 
 ## 🌐 Mooc et cours en ligne
 * [2025 ANSSI SecNumacademie (PDF)](Mooc_anssi_secnumacad.pdf)
