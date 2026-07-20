@@ -27,4 +27,4 @@ Bienvenue sur cet espace. Vous trouverez ci-dessous les accès directs à mes di
 * [2024 CISCO Operating systems basics (PDF)](2024_CISCO_Operating_Systems_Basics_Badge20240817-7-qlxfuh.pdf)
 * [2024 CISCO Computer hardware basics (PDF)](2024_CISCO_Computer_Hardware_Basics_Badge20240728-7-b1bh02.pdf)
 * [2024 OpenClassrooms Gérer un parc informatique avec GLPI (PDF)](2024_OC_1649388503_Gérez_votre_parc_informatique_avec_GLPI.pdf)
-
+* [2023 OpenClassrooms Gérer des incidents avec le référentiel ITIL sur GLPI (PDF)](2023_OC_1447165955_Gérez_vos_incidents_référentiel_ITIL_sur_GLPI.pdf)
