@@ -15,6 +15,7 @@ Bienvenue sur cet espace. Vous trouverez ci-dessous les accès directs à mes di
 * [2025 Livret d'évaluation en cours de formation technicien supérieur systèmes et réseaux (PDF)](2025_livret_Evaluation_en_Cours_de_Formation_TSSR.pdf)
 * [2015 Test of English for International Communication (PDF)](2015_Toeic_895.pdf)
 * [2010 Certificat de compétences en Anglais niveau 2 (PDF)](2010_CLES_Anglais.pdf)
+* [2004 Licence britannique de croupier professionnel (PDF)](2004_seefar_licence_britannique_professional_croupier.pdf)
 
 ## ⚒️ Formations professionnelles
 * [2025 Exchange 2019, mise en oeuvre et administration - ORSYS (PDF)](2025_Exchange_2019_ECP.pdf)
