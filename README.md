@@ -25,7 +25,7 @@ Bienvenue sur cet espace. Vous trouverez ci-dessous les accès directs à mes di
 
 ## 🌐 Mooc et cours en ligne
 * [2025 ANSSI SecNumacademie](Mooc_anssi_secnumacad.pdf)
-* [2024 CISCO English for IT 2](2024_CISCO_English_for_IT_2_.pdf)
+* [2024 CISCO English for IT 2](2024_CISCO_English_for_IT_2.pdf)
 * [2024 CISCO English for IT 1](2024_CISCO_English_for_IT_1.pdf)
 * [2024 CISCO Operating systems basics](2024_CISCO_Operating_Systems_Basics_Badge20240817-7-qlxfuh.pdf)
 * [2024 CISCO Computer hardware basics](2024_CISCO_Computer_Hardware_Basics_Badge20240728-7-b1bh02.pdf)
